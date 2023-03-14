@@ -4,21 +4,29 @@ The **LD4 Art & Design Affinity Group** intends to advance the use of linked dat
 Our group focuses on the unique challenges of describing and providing access to art and design resources and use cases for modeling, querying, and visualization of linked data related to:
 - **art and design subject areas** including visual arts, craft, architecture, graphic design, and fashion, et al.
 - **art and design events** including exhibitions, performances, and auctions, et al.
-- **art and design subject formats** including catalogs, visual resource collections, and artist files, et al.
+- **art and design formats** including catalogs, visual resource collections, and artist files, et al.
 
 # Our Approach
+
+## Calls
 We hold monthly calls open to all to learn about and discuss projects, resources, and tools within our scope. Join our [Google Group](https://groups.google.com/g/ld4-art-design) to be notified when calls are announced.
+
+## Chat
+We have a dedicated [**#art-design**](https://ld4.slack.com/archives/C04RNHPPVRC) channel in the LD4 Slack. See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/support-communication#:~:text=Join%20LD4%20public%20Slack) for the link to join the Slack.
 
 # Resources
 
+## LD4
+- [Homepage](https://sites.google.com/stanford.edu/ld4-community-site/home)
+- [Communication Channels](https://sites.google.com/stanford.edu/ld4-community-site/support-communication#h.vvfifssdmu31)
+- [Affinity Groups](https://sites.google.com/stanford.edu/ld4-community-site/groups#h.dm8tfdn1yc6h)
+- [Community Participation Guidelines](https://wiki.lyrasis.org/display/LD4P2/LD4P+Community+Participation+Guidelines)
+
+## [to be organized]
 - Wikidata
 - CIDOC-CRM
 - BIBFRAME
 - IIIF
-
-## Ontologies
 - Linked Art
 - BIBFRAME’s Art and Rare Materials (ARM) Ontology
-
-## Vocabularies
 - Getty Vocabularies
