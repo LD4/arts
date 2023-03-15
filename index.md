@@ -33,8 +33,8 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [Communication Channels](https://sites.google.com/stanford.edu/ld4-community-site/support-communication#h.vvfifssdmu31)
 - [Affinity Groups](https://sites.google.com/stanford.edu/ld4-community-site/groups#h.dm8tfdn1yc6h)
   - [Discovery Affinity Group](https://wiki.lyrasis.org/display/LD4P2/LD4+Discovery+Affinity+Group+Charge)
-  - [Wikidata Affinity Group](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group)
   - [Rare Materials Affinity Group](https://wiki.lyrasis.org/display/LD4P2/Rare+Materials+Affinity+Group)
+  - [Wikidata Affinity Group](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group)
 - [Community Participation Guidelines](https://wiki.lyrasis.org/display/LD4P2/LD4P+Community+Participation+Guidelines)
 
 ## Related Groups and Initiatives
