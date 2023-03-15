@@ -32,13 +32,22 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 ## [LD4](https://sites.google.com/stanford.edu/ld4-community-site/home)
 - [Communication Channels](https://sites.google.com/stanford.edu/ld4-community-site/support-communication#h.vvfifssdmu31)
 - [Affinity Groups](https://sites.google.com/stanford.edu/ld4-community-site/groups#h.dm8tfdn1yc6h)
+  - [LD4 Discovery Affinity Group](https://wiki.lyrasis.org/display/LD4P2/LD4+Discovery+Affinity+Group+Charge)
+  - [LD4 Wikidata Affinity Group](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group)
+  - [LD4 Rare Materials Affinity Group](https://wiki.lyrasis.org/display/LD4P2/Rare+Materials+Affinity+Group)
 - [Community Participation Guidelines](https://wiki.lyrasis.org/display/LD4P2/LD4P+Community+Participation+Guidelines)
 
-## [to be organized]
-- Wikidata
-- CIDOC-CRM
-- BIBFRAME
-- IIIF
-- Linked Art
-- BIBFRAME’s Art and Rare Materials (ARM) Ontology
-- Getty Vocabularies
+## Related Groups and Initiatives
+**Bold** links indicate art– and/or design–focus
+- [**ARLIS/NA Cataloging Advisory Committee**](https://www.arlisna.org/cataloging-advisory-committee)
+- [**ARLIS/NA Cataloging Section**](https://www.arlisna.org/cataloging-section)
+- [BIBFRAME](https://www.loc.gov/bibframe/)
+- [**BIBFRAME Art and Rare Materials (ARM) Ontology**](https://ld4p.github.io/arm/)
+- [CIDOC-CRM](https://www.cidoc-crm.org/)
+- [DLF Museums Cohort](https://www.diglib.org/groups/museums-cohort/)
+- [**Getty Vocabularies**](https://www.getty.edu/research/tools/vocabularies/)
+- [IIIF](https://iiif.io/)
+- [**Linked Art**](https://linked.art/)
+- [**VRA Cataloging and Metadata Standards Committee**](https://vraweb.org/about/committees/vra-cataloging-and-metadata-standards-committee/)
+- [Wikidata](https://www.wikidata.org/)
+- [Wikimedia Commons](https://commons.wikimedia.org/)
