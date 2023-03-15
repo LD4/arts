@@ -25,7 +25,7 @@ If you are not yet a member, you can request membership [through your web browse
 ## Slack
 We have a [dedicated channel](https://ld4.slack.com/archives/C04RNHPPVRC) (`#art-design`) in the LD4 Slack workspace ([ld4.slack.com](https://ld4.slack.com)) for more ephemeral discussion.
 
-See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home#h.wf19whcy0h6:~:text=Community%20email%20list.-,Join%20our%20Slack%20channel,-Subscribe%20to%20our) for the link to join the Slack workspace, search for `#art-design`, and click the `Join Channel` button.
+See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home#h.wf19whcy0h6:~:text=Community%20email%20list.-,Join%20our%20Slack%20channel,-Subscribe%20to%20our) for the link to join the Slack workspace. Once you have joined, search for `#art-design` and click the `Join Channel` button.
 
 # Links
 
