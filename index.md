@@ -52,3 +52,4 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [Wikidata](https://www.wikidata.org/)
 - [**Wikidata:WikiProject Visual arts**](https://www.wikidata.org/wiki/Wikidata:WikiProject_Visual_arts)
 - [Wikimedia Commons](https://commons.wikimedia.org/)
+- [Wikimedia Commons:Structured Data](https://commons.wikimedia.org/wiki/Commons:Structured_data)
