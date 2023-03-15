@@ -1,14 +1,18 @@
-We aim to advance the use of linked data in art and design contexts through information sharing, exchange, and collaboration.
+We aim to advance the use of linked data for art and design through information sharing, exchange, and collaboration.
 
 As an [LD4 Affinity Group](https://sites.google.com/stanford.edu/ld4-community-site/groups), we are open to all, regardless of institutional or organizational affiliation.
 
-_An earlier version of the LD4 Art & Design Affinity Group organized calls between June 2021–January 2023 under the name "ARLIS/NA Wikidata Group."_
-
 # Scope
-Our group focuses on the unique challenges of modeling, querying, and visualizing linked data related to the subject areas of art and design including:
-- domains such as visual arts, performance art, craft, architecture, graphic design, and fashion
-- events such as exhibitions, performances, and auctions
-- formats such as catalogs, artists' books, visual resource collections, and artist files
+Our group is a forum to discuss the unique challenges of modeling, querying, and visualizing linked data related to the subject areas of art and design including:
+- Domains such as visual arts, performance art, craft, architecture, graphic design, and fashion
+- Events such as exhibitions, performances, and auctions
+- Formats such as catalogs, artists' books, visual resource collections, and artist files
+
+# Background
+
+An earlier version of the LD4 Art & Design Affinity Group organized calls between June 2021–January 2023 under the name "ARLIS/NA Wikidata Group." We began meeting regularly following sessions at the 2021 [ARLIS/NA](https://www.arlisna.org/) conference including a [Wikidata workshop](https://sched.co/inVJ) and [Digital Humanities SIG meeting](https://sched.co/inYe) on Wiki projects in art and architecture libraries. Members also organized a session for the 2022 ARLIS/NA conference titled "[Points of Connection: Using Wikidata for Art Information](https://sched.co/uwUn)."
+
+In February 2023, we renamed the group and joined the [LD4](https://ld4.io/) community as an affinity group, expanding our scope to linked data more broadly.
 
 # Calls
 We hold monthly open calls to learn about and discuss projects, resources, and tools within our scope. Join our [Google Group](https://groups.google.com/g/ld4-art-design) to be notified when calls are announced.
@@ -38,6 +42,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 **Bold** links indicate art/design focus
 - [**ARLIS/NA Cataloging Advisory Committee**](https://www.arlisna.org/cataloging-advisory-committee)
 - [**ARLIS/NA Cataloging Section**](https://www.arlisna.org/cataloging-section)
+- [**ARLIS/NA Digital Humanities Special Interest Group**](https://dhsig.arlisna.hcommons.org/)
 - [BIBFRAME](https://www.loc.gov/bibframe/)
 - [**BIBFRAME Art and Rare Materials (ARM) Ontology**](https://ld4p.github.io/arm/)
 - [CIDOC-CRM](https://www.cidoc-crm.org/)
