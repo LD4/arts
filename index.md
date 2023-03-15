@@ -1,12 +1,12 @@
-The **LD4 Art & Design Affinity Group** intends to advance the use of linked data in art and design contexts from a library- and archives-led perspective through information sharing, exchange, and collaboration.
+We aim to advance the use of linked data in art and design contexts from a library- and archives-led perspective through information sharing, exchange, and collaboration.
 
 As an [LD4 Affinity Group](https://sites.google.com/stanford.edu/ld4-community-site/groups), we are open to all, regardless of institutional or organizational affiliation.
 
 # Our Focus
-Our group focuses on the unique challenges of describing and providing access to art and design resources and use cases for modeling, querying, and visualization of linked data related to:
-- **art and design subject areas** including visual arts, craft, architecture, graphic design, and fashion, et al.
-- **art and design events** including exhibitions, performances, and auctions, et al.
-- **art and design formats** including catalogs, visual resource collections, and artist files, et al.
+Our group focuses on the unique challenges of modeling, querying, and visualization of linked data related to the subject areas of art and design including:
+- domains such as visual arts, performance art, craft, architecture, graphic design, and fashion
+- events such as exhibitions, performances, and auctions
+- formats such as catalogs, artists' books, visual resource collections, and artist files
 
 # Our Approach
 
