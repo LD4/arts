@@ -16,10 +16,12 @@ We hold monthly calls open to all to learn about and discuss projects, resources
 # Communication Channels
 
 ## Google Group
-Members of our [Google Group](https://groups.google.com/g/ld4-art-design) can share relevant announcements, resources, questions, and job postings by sending emails to `ld4-art-design@googlegroups.com`. If you are not yet a member, you can request membership at [groups.google.com/g/ld4-art-design](https://groups.google.com/g/ld4-art-design) or send a blank email to `ld4-art-design+subscribe@googlegroups.com`.
+Members of our [Google Group](https://groups.google.com/g/ld4-art-design) can share relevant announcements, resources, questions, and job postings by sending emails to `ld4-art-design@googlegroups.com`.
+
+If you are not yet a member, you can request membership at [through your web browser](https://groups.google.com/g/ld4-art-design) or send a blank email to `ld4-art-design+subscribe@googlegroups.com`.
 
 ## Slack
-We have a dedicated [**#art-design**](https://ld4.slack.com/archives/C04RNHPPVRC) channel in the LD4 Slack workspace ([ld4.slack.com](https://ld4.slack.com)). See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home#h.wf19whcy0h6:~:text=Community%20email%20list.-,Join%20our%20Slack%20channel,-Subscribe%20to%20our) for the link to join the Slack.
+We have a dedicated [`#art-design`](https://ld4.slack.com/archives/C04RNHPPVRC) channel in the LD4 Slack workspace ([ld4.slack.com](https://ld4.slack.com)). See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home#h.wf19whcy0h6:~:text=Community%20email%20list.-,Join%20our%20Slack%20channel,-Subscribe%20to%20our) for the link to join the Slack.
 
 # Links
 
