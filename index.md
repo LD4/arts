@@ -50,4 +50,5 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [**Linked Art**](https://linked.art/)
 - [**VRA Cataloging and Metadata Standards Committee**](https://vraweb.org/about/committees/vra-cataloging-and-metadata-standards-committee/)
 - [Wikidata](https://www.wikidata.org/)
+- [**Wikidata:WikiProject Visual arts**](https://www.wikidata.org/wiki/Wikidata:WikiProject_Visual_arts)
 - [Wikimedia Commons](https://commons.wikimedia.org/)
