@@ -44,6 +44,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [**ARLIS/NA Cataloging Section**](https://www.arlisna.org/cataloging-section)
 - [**ARLIS/NA Digital Humanities Special Interest Group**](https://dhsig.arlisna.hcommons.org/)
 - [Arches](https://www.archesproject.org/)
+- [**ArtFrame**](https://wiki.lyrasis.org/display/LD4P/ArtFrame)
 - [BIBFRAME](https://www.loc.gov/bibframe/)
 - [**BIBFRAME Art and Rare Materials (ARM) Ontology**](https://ld4p.github.io/arm/)
 - [CIDOC-CRM](https://www.cidoc-crm.org/)
