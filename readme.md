@@ -54,6 +54,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [LD4 Rare Materials Affinity Group](https://wiki.lyrasis.org/display/LD4P2/Rare+Materials+Affinity+Group)
 - [LD4 Wikidata Affinity Group](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group)
 - [**Linked Art**](https://linked.art/)
+- [RBMS Bibliographic Standards Committee](https://www.ala.org/acrl/rbms/acr-rbmbiblio)
 - [Sinopia](https://sinopia.io/)
 - [**VRA Cataloging and Metadata Standards Committee**](https://vraweb.org/about/committees/vra-cataloging-and-metadata-standards-committee/)
 - [Wikidata](https://www.wikidata.org/)
