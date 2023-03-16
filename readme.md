@@ -51,7 +51,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [**Getty Vocabularies**](https://www.getty.edu/research/tools/vocabularies/)
 - [IIIF](https://iiif.io/)
 - [LD4 Discovery Affinity Group](https://wiki.lyrasis.org/display/LD4P2/LD4+Discovery+Affinity+Group+Charge)
-- [LD4 Rare Materials Affinity Group](https://wiki.lyrasis.org/display/LD4P2/Rare+Materials+Affinity+Group)
+- [LD4 Rare Materials Affinity Group](https://github.com/LD4/rare-materials)
 - [LD4 Wikidata Affinity Group](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group)
 - [**Linked Art**](https://linked.art/)
 - [RBMS Bibliographic Standards Committee](https://www.ala.org/acrl/rbms/acr-rbmbiblio)
