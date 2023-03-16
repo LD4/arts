@@ -12,7 +12,7 @@ Our group is a forum to discuss the unique challenges of modeling, querying, and
 
 An earlier version of the LD4 Art & Design Affinity Group organized calls between June 2021–January 2023 under the name "ARLIS/NA Wikidata Group." We began meeting regularly following sessions at the 2021 [ARLIS/NA](https://www.arlisna.org/) conference including a [Wikidata workshop](https://sched.co/inVJ) and [Digital Humanities SIG meeting](https://sched.co/inYe) on Wiki projects in art and architecture libraries. Members also organized a session for the 2022 ARLIS/NA conference titled "[Points of Connection: Using Wikidata for Art Information](https://sched.co/uwUn)."
 
-In February 2023, we renamed the group and joined the [LD4](https://ld4.io/) community as an affinity group, expanding our scope to linked data more broadly.
+In February 2023, we joined the [LD4](https://ld4.io/) community as an affinity group, updating our name and expanding our scope to linked data more broadly.
 
 # Calls
 We hold monthly open calls to learn about and discuss projects, resources, and tools within our scope. Join our [Google Group](https://groups.google.com/g/ld4-art-design) to be notified when calls are announced.
