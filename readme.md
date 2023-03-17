@@ -3,7 +3,7 @@ We aim to advance the use of linked data for art and design from a library- and 
 As an [LD4 Affinity Group](https://sites.google.com/stanford.edu/ld4-community-site/groups), we are open to all, regardless of institutional or organizational affiliation.
 
 # Scope
-We are a community of practice to discuss the unique challenges of modeling, creating, querying, and visualizing linked data related to art and design including:
+We are a community of practice that explores the unique challenges of modeling, creating, querying, and visualizing linked data related to art and design including:
 - Domains such as visual arts, performance art, craft, architecture, graphic design, and fashion
 - Events such as exhibitions, performances, and auctions
 - Formats such as catalogs, artists' books, visual resource collections, and artist files
