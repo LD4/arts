@@ -1,4 +1,4 @@
-We aim to advance the use of linked data for art and design through information sharing, exchange, and collaboration.
+We aim to advance the use of linked data for art and design from a library- and archives-led perspective through information sharing, exchange, and collaboration.
 
 As an [LD4 Affinity Group](https://sites.google.com/stanford.edu/ld4-community-site/groups), we are open to all, regardless of institutional or organizational affiliation.
 
