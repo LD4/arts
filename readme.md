@@ -38,7 +38,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [Affinity Groups](https://sites.google.com/stanford.edu/ld4-community-site/groups#h.dm8tfdn1yc6h)
 - [Community Participation Guidelines](https://wiki.lyrasis.org/display/LD4P2/LD4P+Community+Participation+Guidelines)
 
-## Related Groups and Initiatives
+## Relevant Groups and Initiatives
 **Bold** links indicate art/design focus
 - [**American Art Collaborative**](https://americanart.si.edu/about/american-art-collaborative)
 - [**ARLIS/NA Cataloging Advisory Committee**](https://www.arlisna.org/cataloging-advisory-committee)
