@@ -17,7 +17,7 @@ In February 2023, we joined the [LD4](https://ld4.io/) community as an affinity 
 # Calls
 We hold monthly open calls to learn about and discuss projects, resources, and tools within our scope. Join our [Google Group](https://groups.google.com/g/ld4-art-design) to be notified when calls are announced.
 - [Running notes document](https://tinyurl.com/ld4-art-design-notes)
-- [Suggest a future call topic](https://forms.gle/LtRdfJtjegYjjE1g6)
+- [Suggest a future call topic](https://tinyurl.com/ld4-art-design-suggest)
 
 # Communication Channels
 
