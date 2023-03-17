@@ -61,6 +61,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [**PHAROS**](http://pharosartresearch.org/)
 - [RBMS Bibliographic Standards Committee](https://www.ala.org/acrl/rbms/acr-rbmbiblio)
 - [RBMS Linked Data for Rare Materials Implementation Working Group](https://rbms.info/bibliographic_standards/committee-docs/Linked_Data_for_Rare_Materials_Implementation_Working_Group_Charge.pdf)
+- [Semantic Web in Libraries](http://swib.org/)
 - [Sinopia](https://sinopia.io/)
 - [**VRA Cataloging and Metadata Standards Committee**](https://vraweb.org/about/committees/vra-cataloging-and-metadata-standards-committee/)
 - [Wikidata](https://www.wikidata.org/)
