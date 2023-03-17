@@ -57,6 +57,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [LD4 Rare Materials Affinity Group](https://github.com/LD4/rare-materials)
 - [LD4 Wikidata Affinity Group](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group)
 - [**Linked Art**](https://linked.art/)
+- [LODLAM](https://lodlam.net/)
 - [**PHAROS**](http://pharosartresearch.org/)
 - [RBMS Bibliographic Standards Committee](https://www.ala.org/acrl/rbms/acr-rbmbiblio)
 - [RBMS Linked Data for Rare Materials Implementation Working Group](https://rbms.info/bibliographic_standards/committee-docs/Linked_Data_for_Rare_Materials_Implementation_Working_Group_Charge.pdf)
