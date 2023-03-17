@@ -52,6 +52,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [Collections as Data](https://collectionsasdata.github.io/)
 - [DLF Museums Cohort](https://www.diglib.org/groups/museums-cohort/)
 - [**Getty Vocabularies**](https://www.getty.edu/research/tools/vocabularies/)
+- [IFLA Wikidata Working Group](https://www.ifla.org/ifla-wikidata-working-group/)
 - [IIIF](https://iiif.io/)
 - [LD4 Discovery Affinity Group](https://wiki.lyrasis.org/display/LD4P2/LD4+Discovery+Affinity+Group+Charge)
 - [LD4 Rare Materials Affinity Group](https://github.com/LD4/rare-materials)
