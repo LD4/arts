@@ -53,6 +53,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [**DLF Arts and Cultural Heritage Working Group**](https://www.diglib.org/groups/ach/)
 - [**Enriching Exhibition Scholarship Project**](https://www.sps.ed.ac.uk/news-events/news/new-international-project-will-map-connections-between-art-and-museum-exhibitions)
 - [**Getty Vocabularies**](https://www.getty.edu/research/tools/vocabularies/)
+- [**Getty Vocabularies as Linked Open Data Google Group**](https://groups.google.com/g/gettyvocablod)
 - [IFLA Wikidata Working Group](https://www.ifla.org/ifla-wikidata-working-group/)
 - [IIIF](https://iiif.io/)
 - [LD4 Discovery Affinity Group](https://wiki.lyrasis.org/display/LD4P2/LD4+Discovery+Affinity+Group+Charge)
