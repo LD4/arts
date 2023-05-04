@@ -40,6 +40,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 
 ## Relevant Groups and Initiatives
 **Bold** links indicate art/design focus
+- [**AAMC Foundation Best Practices Guide for Artist Demographic Data Coordination**](https://www.artcurators.org/page/ArtistDemographicDataCoordination)
 - [**American Art Collaborative**](https://americanart.si.edu/about/american-art-collaborative)
 - [**ARLIS/NA Cataloging Advisory Committee**](https://www.arlisna.org/cataloging-advisory-committee)
 - [**ARLIS/NA Cataloging Section**](https://www.arlisna.org/cataloging-section)
