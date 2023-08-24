@@ -71,6 +71,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [Sinopia](https://sinopia.io/)
 - [**VRA Cataloging and Metadata Standards Committee**](https://vraweb.org/about/committees/vra-cataloging-and-metadata-standards-committee/)
 - [Wikidata](https://www.wikidata.org/)
+- [**Wikidata:WikiProject Sum of All Paintings**]([https://www.wikidata.org/wiki/Wikidata:WikiProject_Visual_arts](https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings))
 - [**Wikidata:WikiProject Visual arts**](https://www.wikidata.org/wiki/Wikidata:WikiProject_Visual_arts)
 - [Wikimedia Commons](https://commons.wikimedia.org/)
 - [Wikimedia Commons:Structured Data](https://commons.wikimedia.org/wiki/Commons:Structured_data)
