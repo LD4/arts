@@ -63,6 +63,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [LD4 Wikidata Affinity Group](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group)
 - [**Linked Art**](https://linked.art/)
 - [LODLAM](https://lodlam.net/)
+- [**LUX**](https://lux.collections.yale.edu/content/about-lux)
 - [**Ontology for Museum Domain and Applied Arts**](http://liveschema.eu/dataset/finto_maotao)
 - [**PHAROS**](http://pharosartresearch.org/)
 - [RBMS Bibliographic Standards Committee](https://www.ala.org/acrl/rbms/acr-rbmbiblio)
