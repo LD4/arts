@@ -1,3 +1,16 @@
+<div style="
+  width: 100%;
+  background-color: #fff9c4; /* light yellow */
+  border: 1px solid #fbc02d; /* dark yellow border */
+  padding: 10px 20px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+">
+  <strong>Update (October 2025)</strong><br>
+  The LD4 Art & Design Affinity Group is now the LD4 Arts Affinity Group! This name change reflects the broadened scope of our group, which in additional to visual arts and design will also now officially encompass the use of linked data related to performing arts (dance, music, theatre), time-based media (film, sound recordings), and any other art form that piques our group's interest. We will work on updating our website to reflect this change in the coming weeks.
+</div>
+
 We aim to advance the use of linked data for art and design from a library- and archives-led perspective through information sharing, exchange, and collaboration.
 
 As an [LD4 Affinity Group](https://sites.google.com/stanford.edu/ld4-community-site/groups), we are open to all, regardless of institutional or organizational affiliation.
