@@ -4,8 +4,6 @@
   border: 1px solid #fbc02d; /* dark yellow border */
   padding: 10px 20px;
   box-sizing: border-box;
-  font-family: sans-serif;
-  font-size: 16px;
 ">
   <strong>Update (October 2025)</strong><br>
   The LD4 Art & Design Affinity Group is now the LD4 Arts Affinity Group! This name change reflects the broadened scope of our group, which in additional to visual arts and design will also now officially encompass the use of linked data related to performing arts (dance, music, theatre), time-based media (film, sound recordings), and any other art form that piques our group's interest. We will work on updating our website to reflect this change in the coming weeks.
@@ -28,21 +26,21 @@ An earlier version of the LD4 Art & Design Affinity Group organized calls betwee
 In February 2023, we joined the [LD4](https://ld4.io/) community as an affinity group, updating our name and expanding our scope to linked data more broadly.
 
 # Calls
-We hold monthly open calls to learn about and discuss projects, resources, and tools within our scope. Join our [Google Group](https://groups.google.com/g/ld4-art-design) to be notified when calls are announced.
+We hold monthly open calls to learn about and discuss projects, resources, and tools within our scope. Join our [Google Group](https://groups.google.com/g/ld4-arts) to be notified when calls are announced.
 - [Running notes document](https://tinyurl.com/ld4-art-design-notes)
 - [Suggest a future call topic](https://tinyurl.com/ld4-art-design-suggest)
 
 # Communication Channels
 
 ## Google Group
-Members of our [Google Group](https://groups.google.com/g/ld4-art-design) can share relevant announcements, resources, questions, and job postings by sending emails to `ld4-art-design@googlegroups.com`.
+Members of our [Google Group](https://groups.google.com/g/ld4-arts) can share relevant announcements, resources, questions, and job postings by sending emails to `ld4-arts@googlegroups.com`.
 
-If you are not yet a member, you can request membership [through your web browser](https://groups.google.com/g/ld4-art-design) or send a blank email to `ld4-art-design+subscribe@googlegroups.com`.
+If you are not yet a member, you can request membership [through your web browser](https://groups.google.com/g/ld4s) or send a blank email to `ld4-arts+subscribe@googlegroups.com`.
 
 ## Slack
-We have a [dedicated channel](https://ld4.slack.com/archives/C04RNHPPVRC) (`#art-design`) in the LD4 Slack workspace ([ld4.slack.com](https://ld4.slack.com)) for more ephemeral discussion.
+We have a [dedicated channel](https://ld4.slack.com/archives/C04RNHPPVRC) (`#arts`) in the LD4 Slack workspace ([ld4.slack.com](https://ld4.slack.com)) for more ephemeral discussion.
 
-See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home#h.wf19whcy0h6:~:text=Community%20email%20list.-,Join%20our%20Slack%20channel,-Subscribe%20to%20our) for the link to join the Slack workspace. Once you have joined, search for `#art-design` and click the `Join Channel` button.
+See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home#h.wf19whcy0h6:~:text=Community%20email%20list.-,Join%20our%20Slack%20channel,-Subscribe%20to%20our) for the link to join the Slack workspace. Once you have joined, search for `#arts` and click the `Join Channel` button.
 
 # Links
 
