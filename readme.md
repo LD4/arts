@@ -14,14 +14,19 @@ We are a community of practice exploring the unique challenges of modeling, crea
 
 An earlier version of the LD4 Arts Affinity Group organized calls between June 2021–January 2023 under the name "ARLIS/NA Wikidata Group." We began meeting regularly following sessions at the 2021 [ARLIS/NA](https://www.arlisna.org/) conference including a [Wikidata workshop](https://sched.co/inVJ) and [Digital Humanities SIG meeting](https://sched.co/inYe) on Wiki projects in art and architecture libraries. Members also organized a session for the 2022 ARLIS/NA conference titled "[Points of Connection: Using Wikidata for Art Information](https://sched.co/uwUn)."
 
-In February 2023, we joined the [LD4](https://ld4.io/) community as an affinity group, updating our name to "LD4 Art & Design Affinity Group" and expanding our scope to linked data more broadly.
+In February 2023, we formally joined the [LD4](https://ld4.io/) community as an affinity group, adopting the name "LD4 Art & Design Affinity Group" and broadening our focus to linked data as a whole.
 
-In October 2025, we became the "LD4 Arts Affinity Group" to reflect our expanded scope. Beyond visual arts and design, we now cover linked data for performing arts, time-based media, and any other art form of interest.
+In October 2025, we became the "LD4 Arts Affinity Group" to reflect a further expanded scope. Beyond visual arts and design, we now cover linked data for performing arts, time-based media, and any other art form of interest.
+
+Reflecting our origins in North American library associations and a coordination team based in the United States, our group's calls tend to occur during U.S. business hours and are held in English. We warmly welcome international participation and encourage anyone limited by time zone differences to engage through our asynchronous [communication channels](#communication-channels).
 
 # Calls
-We hold regular open calls to learn about and discuss projects, resources, and tools within our scope. Join our [Google Group](https://groups.google.com/g/ld4-arts) to be notified when calls are announced.
+We hold monthly(ish) open calls to learn about and discuss projects, resources, and tools within our scope. Join our [Google Group](https://groups.google.com/g/ld4-arts) to be notified when calls are announced.
 - [Running notes document](https://tinyurl.com/ld4-arts-notes)
 - [Suggest a future call topic](https://tinyurl.com/ld4-arts-suggest)
+
+## Recording and AI Note-taker Policy
+Our calls are not recorded by default (except by presenter request) and AI note-takers are not permitted, though we keep comprehensive [written notes](https://tinyurl.com/ld4-arts-notes) for every session and share slides when available.
 
 # Communication Channels
 
