@@ -35,7 +35,7 @@ We hold monthly open calls to learn about and discuss projects, resources, and t
 ## Google Group
 Members of our [Google Group](https://groups.google.com/g/ld4-arts) can share relevant announcements, resources, questions, and job postings by sending emails to `ld4-arts@googlegroups.com`.
 
-If you are not yet a member, you can request membership [through your web browser](https://groups.google.com/g/ld4s) or send a blank email to `ld4-arts+subscribe@googlegroups.com`.
+If you are not yet a member, you can request membership [through your web browser](https://groups.google.com/g/ld4-arts) or send a blank email to `ld4-arts+subscribe@googlegroups.com`.
 
 ## Slack
 We have a [dedicated channel](https://ld4.slack.com/archives/C04RNHPPVRC) (`#arts`) in the LD4 Slack workspace ([ld4.slack.com](https://ld4.slack.com)) for more ephemeral discussion.
