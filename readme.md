@@ -5,30 +5,31 @@
   padding: 10px 20px;
   box-sizing: border-box;
 ">
-  <strong>Update (October 2025)</strong><br>
-  The LD4 Art & Design Affinity Group is now the LD4 Arts Affinity Group! This name change reflects the broadened scope of our group, which in additional to visual arts and design will also now officially encompass the use of linked data related to performing arts (dance, music, theatre), time-based media (film, sound recordings), and any other art form that piques our group's interest. We will work on updating our website to reflect this change in the coming weeks.
-</div>
 
-We aim to advance the use of linked data for art and design from a library- and archives-led perspective through information sharing, exchange, and collaboration.
+We aim to advance the use of linked data for arts from a library- and archives-led perspective through information sharing, exchange, and collaboration.
 
 As an [LD4 Affinity Group](https://sites.google.com/stanford.edu/ld4-community-site/groups), we are open to all, regardless of institutional or organizational affiliation.
 
 # Scope
-We are a community of practice that explores the unique challenges of modeling, creating, querying, and visualizing linked data related to art and design including:
-- Domains such as visual arts, performance art, craft, architecture, graphic design, and fashion
-- Events such as exhibitions, performances, and auctions
-- Formats such as catalogs, artists' books, visual resource collections, and artist files
+We are a community of practice exploring the unique challenges of modeling, creating, querying, and visualizing linked data across the arts including (but not limited to):
+- **Visual Arts & Design**: fine arts, craft, architecture, graphic design, and artists' books
+- **Performing Arts**: music, dance, theater, and performance art
+- **Time-Based Media**: film, video, sound recordings, and interactive media
+- **Events**: exhibitions, festivals, performances, and auctions
+- **Documentation**: ephemera, performance recordings, programs, exhibition catalogs, provenance records, and artist files
 
 # Background
 
-An earlier version of the LD4 Art & Design Affinity Group organized calls between June 2021–January 2023 under the name "ARLIS/NA Wikidata Group." We began meeting regularly following sessions at the 2021 [ARLIS/NA](https://www.arlisna.org/) conference including a [Wikidata workshop](https://sched.co/inVJ) and [Digital Humanities SIG meeting](https://sched.co/inYe) on Wiki projects in art and architecture libraries. Members also organized a session for the 2022 ARLIS/NA conference titled "[Points of Connection: Using Wikidata for Art Information](https://sched.co/uwUn)."
+An earlier version of the LD4 Arts Affinity Group organized calls between June 2021–January 2023 under the name "ARLIS/NA Wikidata Group." We began meeting regularly following sessions at the 2021 [ARLIS/NA](https://www.arlisna.org/) conference including a [Wikidata workshop](https://sched.co/inVJ) and [Digital Humanities SIG meeting](https://sched.co/inYe) on Wiki projects in art and architecture libraries. Members also organized a session for the 2022 ARLIS/NA conference titled "[Points of Connection: Using Wikidata for Art Information](https://sched.co/uwUn)."
 
-In February 2023, we joined the [LD4](https://ld4.io/) community as an affinity group, updating our name and expanding our scope to linked data more broadly.
+In February 2023, we joined the [LD4](https://ld4.io/) community as an affinity group, updating our name to "LD4 Art & Design Affinity Group" and expanding our scope to linked data more broadly.
+
+In October 2025, we became the "LD4 Arts Affinity Group" to reflect our expanded scope. Beyond visual arts and design, we now cover linked data for performing arts, time-based media, and any other art form of interest.
 
 # Calls
-We hold monthly open calls to learn about and discuss projects, resources, and tools within our scope. Join our [Google Group](https://groups.google.com/g/ld4-arts) to be notified when calls are announced.
-- [Running notes document](https://tinyurl.com/ld4-art-design-notes)
-- [Suggest a future call topic](https://tinyurl.com/ld4-art-design-suggest)
+We hold regular open calls to learn about and discuss projects, resources, and tools within our scope. Join our [Google Group](https://groups.google.com/g/ld4-arts) to be notified when calls are announced.
+- [Running notes document](https://tinyurl.com/ld4-arts-notes)
+- [Suggest a future call topic](https://tinyurl.com/ld4-arts-suggest)
 
 # Communication Channels
 
@@ -50,7 +51,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [Community Participation Guidelines](https://wiki.lyrasis.org/display/LD4P2/LD4P+Community+Participation+Guidelines)
 
 ## Relevant Groups and Initiatives
-**Bold** links indicate art/design focus
+**Bold** links indicate arts focus
 - [**AAMC Foundation Best Practices Guide for Artist Demographic Data Coordination**](https://www.artcurators.org/page/ArtistDemographicDataCoordination)
 - [**American Art Collaborative**](https://americanart.si.edu/about/american-art-collaborative)
 - [**ARLIS/NA Cataloging Advisory Committee**](https://www.arlisna.org/cataloging-advisory-committee)
@@ -60,6 +61,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [**ArtFrame**](https://wiki.lyrasis.org/display/LD4P/ArtFrame)
 - [**Art Information Commons**](https://artinformationcommons.github.io/)
 - [**Artist Archive Initiative**](https://artistarchives.hosting.nyu.edu/)
+- [**Artsdata**](https://www.artsdata.ca/)
 - [BIBFRAME](https://www.loc.gov/bibframe/)
 - [**BIBFRAME Art and Rare Materials (ARM) Ontology**](https://ld4p.github.io/arm/)
 - [CIDOC-CRM](https://www.cidoc-crm.org/)
@@ -77,8 +79,11 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [LD4 Rare Materials Affinity Group](https://github.com/LD4/rare-materials)
 - [LD4 Wikidata Affinity Group](https://www.wikidata.org/wiki/Wikidata:WikiProject_LD4_Wikidata_Affinity_Group)
 - [**Linked Art**](https://linked.art/)
+- [**Linked Art Extension for Performing Arts (LA-PA)**](https://github.com/stage-to-data/linked-art-pa)
 - [LODLAM](https://lodlam.net/)
 - [**LUX**](https://lux.collections.yale.edu/content/about-lux)
+- [**Music Library Association’s Linked Data Working Group (MLA LDWG)**](https://cmc.wp.musiclibraryassoc.org/mla-linked-data-working-group/)
+- [**Ogee Arches**](https://github.com/thegetty/Ogee)
 - [**Ontology for Museum Domain and Applied Arts**](http://liveschema.eu/dataset/finto_maotao)
 - [**PHAROS**](http://pharosartresearch.org/)
 - [RBMS Bibliographic Standards Committee](https://www.ala.org/acrl/rbms/acr-rbmbiblio)
@@ -88,6 +93,7 @@ See the [LD4 site](https://sites.google.com/stanford.edu/ld4-community-site/home
 - [Semantic Web in Libraries](http://swib.org/)
 - [Sinopia](https://sinopia.io/)
 - [**Swiss Art Research Infrastructure**](https://swissartresearch.net/)
+- [**Swiss Performing Arts Platform**](https://www.performing-arts.ch/)
 - [**VRA Cataloging and Metadata Standards Committee**](https://vraweb.org/about/committees/vra-cataloging-and-metadata-standards-committee/)
 - [Wikidata](https://www.wikidata.org/)
 - [**Wikidata:WikiProject Sum of All Paintings**](https://www.wikidata.org/wiki/Wikidata:WikiProject_sum_of_all_paintings)
